@@ -1,5 +1,8 @@
 <h1>🌟 MoodMirror – A Real-Time Mental Health Companion</h1>
 
+  ![image url](https://github.com/SasankaDinith/ICTMiniproject/blob/main/Homepage.png?raw=true)
+
+
   <h2>📖 Introduction</h2>
     <p>
       University students often face stress, anxiety, and emotional burnout without having proper mechanisms to monitor 
