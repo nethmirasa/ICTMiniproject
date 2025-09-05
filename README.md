@@ -31,6 +31,7 @@
 
   <h2>📐 System Architecture</h2>
     <ul>
+      <li>UI/UX design : https://www.figma.com/design/zwxWXTzoAwqcu60RMMwfpQ/Untitled?node-id=0-1&m=dev&t=vr5nlyllMSYMsFCe-1</li>
       <li><strong>Frontend:</strong> React / Web-based UI (User Interaction)</li>
       <li><strong>Backend:</strong> NodeJs, ExpressJS for emotion detection APIs</li>
       <li><strong>AI Models:</strong> OpenCV, Transfomers, PIL, torch libraries for emotion & speech analysis</li>
