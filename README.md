@@ -35,6 +35,7 @@
       <li><strong>Backend:</strong> NodeJs, ExpressJS for emotion detection APIs</li>
       <li><strong>AI Models:</strong> OpenCV, Transfomers, PIL, torch libraries for emotion & speech analysis</li>
       <li><strong>Database:</strong> MySQL / MongoDB (optional for storing sessions)</li>
+      <li> UI/UX Design : https://www.canva.com/design/DAGbQMuG-WI/dJnfgH6JiS2X7kX_cFpWNw/edit?utm_content=DAGbQMuG-WI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</li>
     </ul>
 
   <h2>🧪 Testing Process</h2>
